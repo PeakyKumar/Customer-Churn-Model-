@@ -132,8 +132,8 @@ The **Gradient Boosting Classifier**, after hyperparameter tuning, achieved the 
 ---
 
 ## 📁 Repository Structure
-- Customer-Churn-Model/
-- │
+Customer-Churn-Model/
+│
 - ├customer_churn_prediction.ipynb
 - ├── README.md
 - ├── requirements.txt
